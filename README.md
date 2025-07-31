@@ -22,7 +22,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 - **Email:** abdulraxman.basha@gmail.com
 - **LinkedIn:** [Abdirahman Ibrahim](https://www.linkedin.com/in/abdirahman-basha-927629161/)
-- **Website:** [SomalisWhoCode.com](https://somaliswhocode.com)
+- **Website:** [Aqoonify.com](https://aqoonify.com)
 
 Thank you for visiting my GitHub profile. I'm excited to showcase my projects, contribute to the developer community, and empower Somali developers worldwide. Let's collaborate on exciting software projects and create exceptional user experiences together!
 
