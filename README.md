@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a versatile full stack software developer base
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
-- **Email:** araman.basha@gmail.com
+- **Email:** abdulraxman.basha@gmail.com
 - **LinkedIn:** [Abdirahman Ibrahim](https://www.linkedin.com/in/abdirahman-basha-927629161/)
 - **Website:** [SomalisWhoCode.com](https://somaliswhocode.com)
 
